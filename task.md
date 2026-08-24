@@ -1,0 +1,12 @@
+- [/] Scaffold Expo mobile app (WellNestMobile) – in progress (task-29)
+- [/] Scaffold second Expo app (WellNestApp) – in progress (task-39)
+- [x] Create backend scaffold (wellnest-backend) – completed
+- [x] Add .env configuration for backend – completed
+- [ ] Install backend dependencies – pending
+- [ ] Implement authentication flow in Expo app – pending
+- [ ] Implement wellness trackers UI – pending
+- [ ] Integrate Supabase client in Expo app – pending
+- [ ] Implement AI recommendation service integration – pending
+- [ ] Build real‑time community chat – pending
+- [ ] Add dark/light mode with glass‑morphism design – pending
+- [ ] Set up CI/CD pipelines – pending
